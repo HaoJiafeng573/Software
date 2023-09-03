@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ezmorph-1.0.6-javadoc">
+    <CLASSES />
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/src/lib2/ezmorph-1.0.6-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

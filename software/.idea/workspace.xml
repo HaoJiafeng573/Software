@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="458e6155-a78d-41be-8d3f-2d6cdf6e5285" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2GyHQPoOLRc6rMj3JVhFjPeRha2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="idea.background.editor" value=".jpg,100,scale,center" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.4229885" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="lib2" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\haojiafeng\Desktop\计算机毕设源码(77)\计算机毕设源码(77)\Word Recognition\src" />
+      <recent name="C:\Users\haojiafeng\Desktop\信2005-3 张可欣 20203978\信2005-3 20203978 张可欣\src\lib" />
+      <recent name="D:\idea\construction\sy2\src" />
+      <recent name="D:\idea\construction\sy2\src\lib" />
+      <recent name="D:\idea\construction\sy2\src\lib2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.id">
+    <configuration name="AuthService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AuthService" />
+      <module name="Word Recognition" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Idcard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Idcard" />
+      <module name="Word Recognition" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LicensePlate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LicensePlate" />
+      <module name="Word Recognition" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="car" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="car" />
+      <module name="Word Recognition" />
+      <option name="VM_PARAMETERS" value="-Dfile.encoding=gbk" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="id" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="id" />
+      <module name="Word Recognition" />
+      <option name="VM_PARAMETERS" value="-Dfile.encoding=gbk" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="Word Recognition" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="Word Recognition" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.id" />
+      <item itemvalue="Application.Idcard" />
+      <item itemvalue="Application.AuthService" />
+      <item itemvalue="Application.LicensePlate" />
+      <item itemvalue="Application.car" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.id" />
+        <item itemvalue="Application.car" />
+        <item itemvalue="Application.AuthService" />
+        <item itemvalue="Application.LicensePlate" />
+        <item itemvalue="Application.Idcard" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="458e6155-a78d-41be-8d3f-2d6cdf6e5285" name="Default Changelist" comment="" />
+      <created>1667353886834</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667353886834</updated>
+      <workItem from="1667353888200" duration="24311000" />
+      <workItem from="1667704702740" duration="3629000" />
+      <workItem from="1667708670528" duration="62000" />
+      <workItem from="1667708802188" duration="22000" />
+      <workItem from="1667708840438" duration="297000" />
+      <workItem from="1667709170228" duration="6652000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1667466932233">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1667466932233" />
+    <state x="614" y="297" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1667704752835">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="614" y="297" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.816@0.0.1536.816" timestamp="1667704752835" />
+    <state x="248" y="211" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor" timestamp="1667704750817">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="248" y="211" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor/0.0.1536.816@0.0.1536.816" timestamp="1667704750817" />
+    <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1667716317835">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1667716317835" />
+    <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1667395700281" />
+    <state width="1537" height="193" key="GridCell.Tab.0.bottom" timestamp="1667716321641">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1537" height="193" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1667716321641" />
+    <state width="1493" height="179" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1667486173557" />
+    <state width="1537" height="193" key="GridCell.Tab.0.center" timestamp="1667716321641">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1537" height="193" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1667716321641" />
+    <state width="1493" height="179" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1667486173557" />
+    <state width="1537" height="193" key="GridCell.Tab.0.left" timestamp="1667716321641">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1537" height="193" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1667716321641" />
+    <state width="1493" height="179" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1667486173557" />
+    <state width="1537" height="193" key="GridCell.Tab.0.right" timestamp="1667716321641">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1537" height="193" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1667716321641" />
+    <state width="1493" height="179" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1667486173557" />
+    <state x="538" y="85" key="SettingsEditor" timestamp="1667710084102">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="538" y="85" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1667710084102" />
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1667362660845" />
+    <state x="742" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1667709172186">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="742" y="254" key="com.intellij.ide.util.TipDialog/0.0.1536.816@0.0.1536.816" timestamp="1667709172186" />
+    <state x="356" y="37" key="new project wizard" timestamp="1667705252316">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="356" y="37" key="new project wizard/0.0.1536.816@0.0.1536.816" timestamp="1667705252316" />
+    <state x="710" y="264" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1667710112833">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="710" y="264" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1536.816@0.0.1536.816" timestamp="1667710112833" />
+    <state x="697" y="138" width="672" height="678" key="search.everywhere.popup" timestamp="1667710105166">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="697" y="138" width="672" height="678" key="search.everywhere.popup/0.0.1536.816@0.0.1536.816" timestamp="1667710105166" />
+  </component>
+</project>
